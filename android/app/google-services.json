@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227213856402",
+    "firebase_url": "https://nguhome-a3afe.firebaseio.com",
+    "project_id": "nguhome-a3afe",
+    "storage_bucket": "nguhome-a3afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227213856402:android:fed6dcb03b4c53c064e04b",
+        "android_client_info": {
+          "package_name": "dev.tsnanh.internetofthings.nguhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227213856402-rbippf83aeu87oh9rom26p60evcou65k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tsnanh.internetofthings.nguhome",
+            "certificate_hash": "9ab46e81b31da9824b63a88596a37b3b468322ac"
+          }
+        },
+        {
+          "client_id": "227213856402-a0v2vjukbm9u56eun32hfo0hfv8on2av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadny__3FGoZmiBJ4ci6EE0JA2hHf_7Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227213856402-1jkuqh4vcc7art87823iog8vbkvvfg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
