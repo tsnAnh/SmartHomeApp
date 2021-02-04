@@ -1,6 +1,6 @@
-# nguhome
+# Stupid Home
 
-NguHome app
+Stupid Home app
 
 ## Getting Started
 
