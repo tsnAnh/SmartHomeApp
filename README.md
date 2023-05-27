@@ -1,6 +1,6 @@
-# Stupid Home
+# Smart Home
 
-Stupid Home app
+Smart Home app
 
 ## Getting Started
 
